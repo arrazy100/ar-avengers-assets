@@ -24,8 +24,8 @@
             ],
             "translation" : [
                 0,
-                41.57825469970703,
-                3.7439675331115723
+                39.89436340332031,
+                2.2609918117523193
             ]
         }
     ],
@@ -38,17 +38,11 @@
                 0
             ],
             "name" : "Falcon_Fix",
-            "normalTexture" : {
-                "index" : 0,
-                "texCoord" : 0
-            },
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.5879999995231628,
-                    0.5879999995231628,
-                    0.5879999995231628,
-                    1
-                ],
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.8945907354354858
             }
@@ -61,17 +55,11 @@
                 0
             ],
             "name" : "Falcon_wp_clothes",
-            "normalTexture" : {
-                "index" : 1,
-                "texCoord" : 0
-            },
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.5879999995231628,
-                    0.5879999995231628,
-                    0.5879999995231628,
-                    1
-                ],
+                "baseColorTexture" : {
+                    "index" : 1,
+                    "texCoord" : 0
+                },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.8945907354354858
             }
@@ -84,17 +72,11 @@
                 0
             ],
             "name" : "Falcons_Skill",
-            "normalTexture" : {
-                "index" : 2,
-                "texCoord" : 0
-            },
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.5879999995231628,
-                    0.5879999995231628,
-                    0.5879999995231628,
-                    1
-                ],
+                "baseColorTexture" : {
+                    "index" : 2,
+                    "texCoord" : 0
+                },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.8945907354354858
             }
